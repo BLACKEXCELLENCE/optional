@@ -10,7 +10,7 @@ package solutioncorner;
  * @author Christopher
  */
 public class SolutionCorner {
-
+//ny edit
     /**
      * @param args the command line arguments
      */
